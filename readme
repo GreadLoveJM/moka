@@ -1,0 +1,5 @@
+extract_one_page 解析每一页的公司链接和公司名称
+extract_one_company  解析每一个公司的地址，公司全称，公司首页链接
+get_hire_href  通过公司主页链接，寻找  加入我们  的a标签href  作为招聘首页
+
+可加入更多丰富标签   招贤纳才 诚聘英才 招聘会等
